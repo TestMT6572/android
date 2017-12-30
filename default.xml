@@ -507,8 +507,8 @@
   <project path="tools/test/connectivity" name="platform/tools/test/connectivity" groups="pdk" remote="aosp" />
   <project path="tools/tradefederation" name="platform/tools/tradefederation" groups="notdefault,tradefed" remote="aosp" />
 
-  <project path="device/Explay/JoyTV" name="TestMT6572/android_device_Explay_JoyTV" revision="cm-14.1" />
-  <project path="vendor/Explay/JoyTV" name="TestMT6572/android_vendor_Explay_JoyTV" revision="cm-14.1" />   
+  <!-- <project path="device/Explay/JoyTV" name="TestMT6572/android_device_Explay_JoyTV" revision="cm-14.1" />
+  <project path="vendor/Explay/JoyTV" name="TestMT6572/android_vendor_Explay_JoyTV" revision="cm-14.1" /> -->   
 
   <include name="snippets/cm.xml" />
 
